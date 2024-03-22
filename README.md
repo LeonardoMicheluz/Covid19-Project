@@ -1,4 +1,6 @@
-EDA of the Covid-19 Vaccination campaign
+# Covid-19 Vaccination
+
+Simple EDA of the Covid-19 vaccination campaign
 
 File:
 
